@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "765463756381",
+    "firebase_url": "https://fir-registrationlogin-ebcaf.firebaseio.com",
+    "project_id": "fir-registrationlogin-ebcaf",
+    "storage_bucket": "fir-registrationlogin-ebcaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765463756381:android:cb55b40bbbed1413",
+        "android_client_info": {
+          "package_name": "com.example.shajun.letzchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765463756381-10vcrh263f20s6iu2tumt2erqko2kpff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAip0qNjjrELuMh1TSW66r4T7VgneF8P7w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
