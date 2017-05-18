@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_conversations"
+            android:icon="@drawable/chat_sign"
+            android:title="Chats" />
+
+        <item
+            android:id="@+id/nav_global"
+            android:icon="@drawable/global_chat_sign"
+            android:title="Global Chat Room" />
+
+        <item
+            android:id="@+id/nav_users"
+            android:icon="@drawable/people_users_sign"
+            android:title="Users" />
+
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/share_sign"
+                android:title="Share" />
+        </menu>
+    </item>
+
+</menu>

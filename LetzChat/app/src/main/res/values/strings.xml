@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">LetzChat</string>
+
+    <!-- activity_login -->
+    <string name="login.dialog.progress">Please wait...</string>
+    <string name="login.dialog.registration.title">Create a new user</string>
+    <string name="login.dialog.forgot.title">Type your Email Address</string>
+    <string name="login.dialog.forgot.text">Check your inbox and follow the instructions to reset your password</string>
+    <string name="login.dialog.forgot.ok">Ok</string>
+    <string name="login.dialog.forgot.close">Close</string>
+    <string name="login.snackbar.password.short">Password cannot be empty</string>
+    <string name="login.snackbar.email.error">Email is not valid</string>
+    <string name="login.snackbar.email.short">Email cannot be empty</string>
+    <string name="login.toast.googleauth.error">Authentication failed.</string>
+    <string name="login.toast.googleservices.error">Google Play Services error.</string>
+
+    <!-- activity registration -->
+    <string name="registration.dialog.text">Verify your email by clicking on the link in your email inbox</string>
+    <string name="registration.snackbar.password.short">Password must be a minimum of 8 characters</string>
+    <string name="registration.snackbar.password.error">Passwords do not match</string>
+    <string name="registration.snackbar.email.short">Email cant be left empty</string>
+    <string name="registration.snackbar.email.error">Email is not valid</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- activity main -->
+    <string name="title_activity_main">Main Activity</string>
+    <string name="main.invite.title">Invite</string>
+    <string name="main.invite.message">Inviting You To LetzChat Application</string>
+    <string name="main.invite.cta">Call to Action</string>
+    <string name="main.toast.logout.message">Logged out</string>
+    <string name="main.toast.exit.message">Please click BACK again to exit</string>
+    <string name="main.dialog.text.wait">Please waitF</string>
+
+    <string name="main.toolbar.menu.search">Search</string>
+
+    <!-- activity firstlogin -->
+    <string name="firstLogin.button.next">Start</string>
+
+    <!-- Navigation Drawer -->
+    <string name="drawer.logout">Logout</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- activity chat -->
+    <string name="chat.hint.message">Message</string>
+    <string name="chat.textview.typing"> is typing…</string>
+    <string name="chat.toolbar.lastseen.offline">Last seen on date at time</string>
+
+    <!-- activity profile -->
+
+    <string name="profile.button.delete">Delete Account</string>
+    <string name="profile.hint.name">Online ID</string>
+    <string name="profile.hint.password">Change Password</string>
+    <string name="profile.toast.password.negative">An error occured while changing the password</string>
+    <string name="profile.dialog.remove.content">Are you sure you want to delete this account permanently?</string>
+    <string name="profile.dialog.remove.positive">Confirm</string>
+    <string name="profile.dialog.remove.negative">Cancel</string>
+
+    <!-- fragment userList -->
+    <string name="userList.toolbar.title">"Users List"</string>
+    <string name="userList.toolbar.search.hint">Search Online ID...</string>
+
+    <!-- fragment conversationList -->
+    <string name="conversations.conversation.item.today">Today</string>
+    <string name="conversationList.conversationModel.item.yesterday">Yesterday</string>
+
+    <!-- fragment global messageList -->
+    <string name="global.toolbar.title">Global Chat Room</string>
+    <string name="title_activity_floating">floatingActivity</string>
+
+</resources>
